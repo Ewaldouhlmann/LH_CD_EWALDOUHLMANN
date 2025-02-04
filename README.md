@@ -34,7 +34,10 @@ Para rodar este projeto, siga os passos abaixo:
     pip install -r requirements.txt
 
 4. Rodar o projeto (notebook ou código):
+
     jupyter notebook (para abrir o notebook)
-    python src/model.py (para treinar o modelo)
-    python src/teste.py (para testar o modelo com dados CSV e JSON)
+    Modelo: 
+        cd src
+            python model.py (para treinar o modelo)
+            python teste.py (para testar o modelo com dados CSV e JSON)
 
